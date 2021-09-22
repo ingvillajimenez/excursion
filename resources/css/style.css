@@ -21,12 +21,12 @@ p {
   color: gray;
 }
 
+footer {
+  color: gray;
+  text-align: right;
+}
+
 .download {
   color: aquamarine;
   font-size: 16px;
-}
-
-#footer {
-  color: gray;
-  text-align: right;
 }
